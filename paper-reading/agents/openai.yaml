@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文分阶段精读"
+  short_description: "根据阅读目标分四阶段概括论文、解释核心方法、深入技术细节并理解研究结果"
+  default_prompt: "Use $paper-reading to 精读这篇论文，从第一阶段开始。"
